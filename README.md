@@ -1,3 +1,5 @@
+To do list in flask with GRAPHQL
+
 #Running 
 cd F
 .\env\Scripts\activate
